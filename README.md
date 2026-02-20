@@ -41,5 +41,5 @@ This dashboard supports data-driven decision-making by enabling
 quick performance evaluation and trend analysis.
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)<img width="1276" height="591" alt="dashboard" src="https://github.com/user-attachments/assets/14535ef3-cf22-49e3-a2e8-062062203dd4" />
+![Dashboard](dashboard.png)
 
